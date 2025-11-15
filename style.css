@@ -74,5 +74,7 @@
 
  .item-price {
      font-weight: bold;
-     color: #79cb15;
+     color: springgreen;
+     font-size: x-large;
+     font-weight: bold;
  }
